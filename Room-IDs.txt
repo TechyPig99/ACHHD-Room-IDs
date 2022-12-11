@@ -1,0 +1,22 @@
+00 Downtown
+01 Garden
+02 HouseRoom0
+03 HouseRoom1
+04 HouseRoom2
+05 HouseRoom3
+06 HouseRoom4
+07 HouseRoom5
+08 HouseRoom6
+09 RealEstateAgency1 F
+10 SaveReportDemo
+11 DataStoreDownload
+12 Title
+13 TitleBefore
+14 RealEstateAgency1 F
+15-99 Downtown
+A RealEstateAgency2F
+B ProductPlayerHouse
+C Photo
+D Load
+E Save
+F Format
